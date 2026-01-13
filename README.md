@@ -39,6 +39,6 @@ Analysis of telecom customer churn to identify key factors leading to customer a
 1. Clone repository
 2. Install requirements: `pip install -r requirements.txt`
 3. Open Jupyter: `jupyter notebook`
-4. Run `customer_churn_analysis.ipynb`
+4. Run `Customer_Churn_Prediction_using_ML.ipynb`
 
 
