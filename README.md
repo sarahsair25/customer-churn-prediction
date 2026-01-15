@@ -72,10 +72,7 @@ Customer churn prediction is a critical business use case where machine learning
 - Matplotlib & Seaborn (Visualization)
 - Jupyter Notebook
 
-## 📁 Project Structure
-- `notebooks/` - Main analysis notebook
-- `data/` - Dataset files
-- `README.md` - Project documentation
+
 
 
 ## 🚀 How to Run
